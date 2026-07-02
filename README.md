@@ -1,187 +1,186 @@
-# 👨‍💻 Hamza Haroon - AI Engineer Portfolio
+<h1 align="center">Hi 👋, I'm Hamza Haroon</h1>
 
-Welcome to my AI Portfolio!  
-I am **Hamza Haroon**, an AI student and aspiring AI Engineer specializing in **Machine Learning, Computer Vision, NLP, and Generative AI systems**.
+<h3 align="center">
+Artificial Intelligence Student | Machine Learning | Computer Vision | NLP | Generative AI
+</h3>
 
-I focus on building **real-world AI applications, automation systems, and intelligent agents** that solve practical problems.
-
----
-
-## 📌 About Me
-
-I am a motivated Artificial Intelligence student with strong hands-on experience in building end-to-end AI systems.  
-My work focuses on combining **Deep Learning, Computer Vision, NLP, and Full Stack Development** to create impactful solutions.
-
-I enjoy working on:
-- Real-time AI systems
-- Intelligent chatbots and voice agents
-- Automation tools using APIs
-- Computer vision applications
-- Research-based AI projects
+<p align="center">
+I am passionate about building intelligent systems that solve real-world problems using Artificial Intelligence, Deep Learning, Computer Vision, and Large Language Models.
+</p>
 
 ---
 
-## 🚀 Core Skills
+# 👨‍💻 About Me
 
-### 🤖 Artificial Intelligence & Machine Learning
-- Machine Learning model training & optimization
-- Deep Learning (CNN, RNN, LSTM)
-- Computer Vision systems
-- Natural Language Processing (NLP)
-- Sentiment Analysis models
-- Predictive modeling
+🎓 Artificial Intelligence Student
 
----
+🤖 Aspiring AI Engineer
 
-### 👁️ Computer Vision
-- YOLO-based object detection
-- Real-time vehicle detection & tracking
-- Face mask detection systems
-- Video analysis pipelines
-- OpenCV image processing
+🔬 Interested in AI Research
+
+💡 Passionate about solving real-world problems using AI
+
+🌍 Currently preparing for Master's studies in Artificial Intelligence
 
 ---
 
-### 🧠 Generative AI & Voice Systems
-- Real-time AI voice assistants
-- Text-to-Speech (TTS) systems
-- Speech-to-Text (STT) systems
-- Voice cloning experiments
-- AI automation agents
+# 🚀 Technical Skills
+
+## Artificial Intelligence
+
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Natural Language Processing
+- Generative AI
+- AI Automation
+
+## Programming
+
+- Python
+- SQL
+- JavaScript
+
+## Frameworks
+
+- PyTorch
+- TensorFlow
+- OpenCV
+- Scikit-Learn
+- Flask
+- FastAPI
+- Streamlit
+
+## Databases
+
+- MongoDB
+- Firebase
+- MySQL
+
+## Tools
+
+- Git
+- GitHub
+- VS Code
+- Google Colab
+- Jupyter Notebook
 
 ---
 
-### 💬 NLP & Chatbots
-- AI chatbots (FAQ systems)
-- PDF-based Q/A chatbot
-- AI debate systems
-- Language translation tools
-- Prompt engineering for LLMs
-- Web search-enabled AI assistants
+# 🛠️ Technologies & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+![YOLO](https://img.shields.io/badge/YOLO-111111?style=for-the-badge)
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-### 🌐 Full Stack AI Development
-- Flask / FastAPI backend systems
-- React-based frontend integration
-- REST API development
-- AI-powered web applications
-- Dashboard-based systems
+# 🔥 Featured Projects
+
+## 🎙️ AI Voice Assistant
+
+A real-time AI voice assistant capable of understanding speech, generating responses, and automating tasks.
+
+**Tech Stack**
+
+- Python
+- Speech Recognition
+- Text-to-Speech
+- NLP
+- Gemini API
 
 ---
 
-### 🗄️ Databases
-- Firebase (authentication & real-time DB)
-- MongoDB (NoSQL database)
-- MySQL (relational database design)
+## 📄 PDF Query AI Assistant
+
+An intelligent document assistant that allows users to ask questions about PDF files using Large Language Models.
+
+**Tech Stack**
+
+- Python
+- LangChain
+- Gemini API
+- NLP
 
 ---
 
-### ⚙️ AI Automation & APIs
-- Google Gemini API integration
-- Grok API automation systems
-- Email automation using AI agents
-- Weather & web search automation
-- Intelligent workflow automation
+## 🚗 VisionTrack-AI
+
+Real-time object detection and tracking system using YOLO and OpenCV.
+
+**Features**
+
+- Multi-object detection
+- Vehicle tracking
+- Object counting
+- Video analytics
 
 ---
 
-## 🔥 Featured Projects
+## 🧠 DeepVision-AI
 
-### 🧠 AI Video Detection System (Real vs Fake Videos)
-- Built deep learning model for detecting AI-generated videos
-- Frame extraction + CNN classification pipeline
-- Real-time prediction system  
-- Tech: Python, OpenCV, PyTorch
+Deep Learning project for image classification and computer vision research.
 
 ---
 
-### 🚗 Vehicle Detection & Counting System
-- Real-time traffic monitoring system
-- YOLOv8 + SORT tracking algorithm
-- Used for smart traffic analysis  
-- Tech: Python, OpenCV, YOLOv8
+## 🎓 Student Registration System
+
+Desktop application developed for managing student information efficiently.
 
 ---
 
-### 😷 Face Mask Detection System
-- Real-time detection using webcam feed
-- YOLO-based object detection model
-- High accuracy real-time classification  
+# 📈 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamzaharoon-ai&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaharoon-ai&layout=compact&theme=github_dark)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=hamzaharoon-ai&theme=github-dark)
 
 ---
 
-### 🎙️ AI Voice Assistant System
-- Voice-based AI agent
-- Integrated STT + TTS pipeline
-- Supports automation (email, search, queries)
-- API-based intelligent assistant
+# 🎯 Career Goal
+
+My goal is to pursue a Master's degree in Artificial Intelligence and contribute to research in:
+
+- Machine Learning
+- Computer Vision
+- Generative AI
+- Intelligent Automation
+- Large Language Models
+
+I am passionate about developing AI systems that create real-world impact through research and innovation.
 
 ---
 
-### 📄 AI Chatbot (PDF + FAQ System)
-- Chat with PDF documents using NLP
-- Gemini API integration
-- Context-aware Q/A system  
+# 📫 Connect With Me
+
+📧 Email: hamzamehmoodkhan1245@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/hamzaharoonai
+
+🌐 GitHub: https://github.com/hamzaharoon-ai
 
 ---
 
-### 🧬 Brain Tumor Detection System
-- Deep learning-based medical image classification
-- CNN model for MRI scan analysis
-
----
-
-### 💬 Sentiment Analysis System
-- Text classification system
-- Positive / Negative / Neutral prediction
-
----
-
-### 🤖 AI Debate System
-- Two AI agents debating on topics
-- Prompt engineering + LLM integration
-
----
-
-## 🛠️ Tools & Technologies
-
-- Python 🐍  
-- TensorFlow / PyTorch  
-- OpenCV / YOLOv8  
-- Scikit-learn  
-- Flask / Streamlit  
-- Firebase / MongoDB / MySQL  
-- Git & GitHub  
-- Google Colab / Jupyter Notebook  
-- Gemini API / Grok API  
-
----
-
-## 📊 GitHub Stats
-
-📌 I actively build and experiment with AI systems and real-world machine learning applications.
-
----
-
-## 🎯 Career Goal
-
-My goal is to become a **professional AI Engineer** specializing in:
-- Intelligent AI systems
-- Real-time computer vision applications
-- Generative AI and automation
-- Research-driven AI development
-
----
-
-## 📫 Contact Me
-
-📧 Email: hamzamehmoodkhan1245@gmail.com  
-🔗 GitHub: https://github.com/hamzamehmoodkhan1245  
-👨‍💻 Name: Hamza Haroon  
-
----
-
-## ⭐ Thank You for Visiting My Portfolio!
-
-If you like my work, feel free to ⭐ my repositories and connect with me!
+⭐ Thank you for visiting my profile! Feel free to explore my repositories and connect with me.
